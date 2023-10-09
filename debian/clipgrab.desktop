@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=ClipGrab
+GenericName=Website Video Downloader
+GenericName[de]=Website Video-Downloader
+GenericName[pt]=Downloader de vídeos de site
+Comment=Download and convert website videos
+Comment[de]=Videos herunterladen und konvertieren
+Comment[pt]=Baixe e converta vídeos de sites
+Icon=clipgrab
+Exec=clipgrab
+TryExec=clipgrab
+Terminal=false
+Categories=Qt;AudioVideo;Audio;Video;

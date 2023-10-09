@@ -1,0 +1,14 @@
+clipgrab (3.9.7~mauna1) mauna; urgency=medium
+
+  * New upstream release for Mauna Linux
+  * Rebuilt it
+
+ -- Mauna Linux <dev@maunalinux.top>  Fri, 29 Sep 2023 18:03:22 -0300
+
+clipgrab (3.9.7~amarok22) stable; urgency=medium
+
+  * Initial release for Amarok Linux OS
+  * Rebuild for AmarokOS Rolling Release
+
+ -- Amarok Linux <packages@amaroklinux.org>  Fri, 16 Sep 2022 12:11:10 -0300
+

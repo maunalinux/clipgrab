@@ -1,0 +1,23 @@
+Source: clipgrab
+Section: net
+Priority: optional
+Maintainer: Mauna Linux <dev@maunalinux.top>
+Build-Depends: debhelper (>= 10),
+               qtbase5-dev (>= 5.9),
+               qttools5-dev (>= 5.9),
+               qttools5-dev-tools (>= 5.9),
+               qtwebengine5-dev (>= 5.9)
+Standards-Version: 4.6.0
+Homepage: http://clipgrab.org/
+
+Package: clipgrab
+Architecture: any
+Depends: ffmpeg, ${misc:Depends}, ${shlibs:Depends}
+Description: user-friendly video downloader for YouTube and other sites
+ ClipGrab is a free downloader and converter for YouTube, Vimeo, Metacafe,
+ Dailymotion and many other online video sites. It can also convert downloaded
+ videos to MPEG4, MP3 or other formats in just one easy step.
+ .
+ Clipgrab can monitor the clipboard for compatible URLs and notify the user, or
+ URLS can be pasted or typed in manually. Optional video conversions are
+ performed using the system's ffmpeg program.
